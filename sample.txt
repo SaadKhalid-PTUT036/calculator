@@ -3,3 +3,4 @@ saad khalid
 cout << "the sum of two number is: " << a+b << endl;
 cout << "the subtraction of two number is: " << a-b << endl;
 cout << "the multiplication of two number is: " << a*b << endl;
+cout << "the division of two number is: " << a/b << endl;
