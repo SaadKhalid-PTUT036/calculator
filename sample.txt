@@ -1,3 +1,4 @@
 saad khalid
 23-st-036
 cout << "the sum of two number is: " << a+b << endl;
+cout << "the subtraction of two number is: " << a-b << endl;
